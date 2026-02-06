@@ -1,0 +1,16 @@
+{
+  "name": "agent-relay",
+  "version": "1.0.0",
+  "description": "Agent-to-agent messaging relay service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "crypto": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
